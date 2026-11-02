@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dữ liệu cũ từ phiên bản crawl trước (không còn được notebook nào sử dụng)
+data/legacy/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+~$*

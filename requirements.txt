@@ -1,0 +1,14 @@
+# Python 3.11 – 3.12
+numpy==2.4.4
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1      # 1.6.1 tái lập chính xác ExtraTrees/RandomForest/LogReg của notebook 03
+xgboost==2.1.4
+lightgbm==4.6.0          # >= 4.6 để tương thích scikit-learn >= 1.6
+optuna==4.5.0
+statsmodels==0.14.6
+matplotlib==3.10.8
+seaborn==0.13.2
+yfinance==1.7.0
+pandas-datareader==0.10.0
+jupyter
