@@ -4,8 +4,8 @@ import os
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
 
-GOLD       = "#b07d00"   # v2, Uptrend
-BLUE       = "#2f63a8"   # bản gốc, Downtrend
+GOLD       = "#b07d00"   # mô hình chọn, Uptrend
+BLUE       = "#2f63a8"   # bộ 37 đặc trưng, Downtrend
 TEAL       = "#1f9a8a"
 RED        = "#c4473a"
 GOLD_LIGHT = "#f1d27a"
